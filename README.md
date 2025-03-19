@@ -62,10 +62,6 @@ This project is created with below technologies/tools/resources:
 ✅Streamlit
 
 ✅Pycharm
-## Project Architecture
-
-![Machine Learning Model Life Cycle](https://github.com/AkshitMunjal/ML_Project_Health_Insurance_Prediction/blob/eef2271fe1d63f8a6b5fb3d93244222109b7c70f/model_life_cycle.png?raw=true)
-
 ## Let’s Connect! 🤝
 
 I’m always excited to collaborate on data-driven projects or join innovative teams 🚀. Let’s build something extraordinary together! 🌟
@@ -75,3 +71,6 @@ I’m always excited to collaborate on data-driven projects or join innovative t
 🔗LinkedIn: www.linkedin.com/in/akshit-munjal-81851b188
 
 🌐Portfolio:https://padlet.com/akshitmunjal479/projects-portfolio-ozbg80dvuk6fl9gg
+## Web Application Link
+
+https://ml-project-health-insurance-prediction.streamlit.app/
